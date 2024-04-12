@@ -15,13 +15,17 @@ Start by forking the repository to make your own copy where you can work indepen
 Navigate to the `Companies` directory in your fork. Here’s the format you should follow to add new company information:
 
 ```markdown
-## Company Name
+```markdown
+## Company Name: [Company Name]
 
-**Industry:** [Industry Type]
-**Headquarters:** [Location]
-**Employment Page URL:** [URL]
-**About the Company:**
-[Short description of the company.]
+| Attribute        | Details                                  |
+|------------------|------------------------------------------|
+| **Company Name** | [Company Name]                           |
+| **Industry**     | [Industry Type]                          |
+| **Headquarters** | [Location]                               |
+| **Employment Page URL** | [URL]                             |
+| **About the Company** | [Short description of the company.] |
+| **Why Work Here?** | [Optional: Add benefits or unique selling points.] |
 ```
 
 
