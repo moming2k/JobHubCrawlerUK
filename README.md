@@ -4,108 +4,109 @@ This wiki serves as a collaborative platform for contributors to add and update 
 
 ## Company Information
 
-| Company Name | Industry | Headquarters | Employment Page URL |
-| --- | --- | --- | --- |
-| 3I Group Plc | Finance | London, United Kingdom | https://www.3i.com/careers |
-| Admiral Group Plc | Insurance | Cardiff, Wales, United Kingdom | https://admiraljobs.co.uk/ |
-| Airtel Africa Plc | Telecommunications | London, United Kingdom | https://www.airtel.africa/careers |
-| Anglo American Plc | Mining | London, United Kingdom | https://www.angloamerican.com/careers |
-| Antofagasta Plc | Mining | Santiago, Chile | http://www.antofagasta.co.uk/careers/ |
-| Ashtead Group Plc | Equipment Rental | London, England | https://www.ashtead-group.com/careers |
-| Associated British Foods Plc | Food | London, United Kingdom | https://www.abf.co.uk/careers |
-| Astrazeneca Plc | Pharmaceuticals | Cambridge, England | https://careers.astrazeneca.com/ |
-| Auto Trader Group Plc | Software | Manchester, United Kingdom | https://careers.autotrader.co.uk/ |
-| Aviva Plc | Insurance | London, United Kingdom | https://www.avivajobs.com/ |
-| B&M European Value Retail S.A. | Retail | Luxembourg, Luxembourg | https://jobs.bmstores.co.uk/ |
-| BAE Systems Plc | Defense, Aerospace | Farnborough, United Kingdom | https://www.baesystems.com/en/careers |
-| Barclays Plc | Finance | London, United Kingdom | https://home.barclays/careers/ |
-| Barratt Developments Plc | Real Estate | London, United Kingdom | https://www.barrattcareers.co.uk/ |
-| Beazley Plc | Insurance | London, United Kingdom | https://www.beazley.com/careers |
-| Berkeley Group Holdings (The) Plc | Property Development | Cobham, United Kingdom | https://www.berkeleygroup.co.uk/careers |
-| BP Plc | Oil and Gas | London, United Kingdom | https://www.bp.com/en/global/corporate/careers.html |
-| British American Tobacco Plc | Tobacco | London, England | https://careers.bat.com |
-| BT Group Plc | Telecommunications | London, United Kingdom | https://www.bt.com/careers |
-| Bunzl Plc | Distribution and Outsourcing | London, United Kingdom | https://www.bunzlcareers.co.uk/ |
-| Burberry Group Plc | Fashion & Luxury Goods | London, United Kingdom | https://www.burberryplc.com/en/careers.html |
-| Centrica Plc | Software | Windsor, Berkshire, United Kingdom | https://www.centrica.com/careers |
-| Coca-Cola HBC AG | Beverages | Zug, Switzerland | https://www.coca-colahellenic.com/en/careers/ |
-| Compass Group Plc | Food Service | Surrey, United Kingdom | https://www.compass-group.com/careers |
-| Convatec Group Plc | Medical Devices | Reading, United Kingdom | https://www.convatecgroup.com/careers |
-| Croda International Plc | Chemicals | Snaith, United Kingdom | https://www.croda.com/en-gb/careers |
-| DCC Plc | Software | Dublin, Ireland | https://careers.dcc.ie/ |
-| Diageo Plc | Beverages | London, United Kingdom | https://www.diageo.com/en/careers/ |
-| Diploma Plc | Software | London, United Kingdom | https://www.diploma.co.uk/careers |
-| Endeavour Mining Plc | Mining | London, United Kingdom | https://www.endeavourmining.com/careers/ |
-| Entain Plc | Software | Douglas, Isle of Man | https://entaingroup.com/careers/ |
-| Experian Plc | Software | Dublin, Ireland | https://www.experianplc.com/careers |
-| F&C Investment Trust Plc | Financial Services | London, United Kingdom | https://www.fandc.com/en/careers/ |
-| Flutter Entertainment Plc | Online Gambling and Betting | Dublin, Ireland | https://www.flutter.com/careers |
-| Frasers Group Plc | Retail | United Kingdom | https://www.frasers.group/careers |
-| Fresnillo Plc | Mining | Mexico City, Mexico | https://www.fresnilloplc.com/careers/ |
-| Glencore Plc | Mining and Commodities Trading | Baar, Switzerland | https://www.glencore.com/careers |
-| GSK Plc | Pharmaceutical | Brentford, United Kingdom | https://www.gsk.com/en-gb/careers/ |
-| Haleon Plc | Software | London, United Kingdom | https://www.haleonplc.com/careers |
-| Halma Plc | Software | Amersham, Buckinghamshire, United Kingdom | https://www.halma.com/careers/ |
-| Hikma Pharmaceuticals Plc | Pharmaceuticals | London, United Kingdom | https://careers.hikma.com/ |
-| Howden Joinery Group Plc | Software | East Yorkshire, United Kingdom | https://www.howdens.com/careers |
-| HSBC Holdings plc | Financial Services | London, United Kingdom | https://www.hsbc.com/careers |
-| IMI Plc | Software | Birmingham, United Kingdom | https://www.imiplc.com/careers |
-| Imperial Brands Plc | Tobacco | Bristol, United Kingdom | https://careers.imperialbrandsplc.com/ |
-| Informa Plc | Business and Financial Information Services | London, UK | https://www.informa.com/careers |
-| Intercontinental Hotels Group Plc | Hospitality | Denham, United Kingdom | https://careers.ihg.com/ |
-| Intermediate Capital Group Plc | Financial Services | London, United Kingdom | https://www.icgam.com/careers |
-| Intertek Group Plc | Quality Assurance and Testing | London, United Kingdom | https://www.intertek.com/careers/ |
-| Intl Consolidated Airlines Group SA | Aviation | Madrid, Spain | https://www.iairgroup.com/en/join-us |
-| JD Sports Fashion Plc | Retail | Bury, United Kingdom | https://careers.jdsports.co.uk/ |
-| Kingfisher Plc | Retail | London, United Kingdom | https://www.kingfisher.com/careers |
-| Land Securities Group Plc | Real Estate | London, United Kingdom | https://www.landsec.com/careers |
-| Legal & General Group Plc | Financial Services | London, United Kingdom | https://careers.legalandgeneral.com/ |
-| Lloyds Banking Group Plc | Banking | London, United Kingdom | https://www.lloydsbankinggrouptalent.com/ |
-| London Stock Exchange Group Plc | Financial Services | London, United Kingdom | https://www.lseg.com/careers |
-| M&G Plc | Financial Services | London, United Kingdom | https://careers.mandg.com |
-| Marks & Spencer Group Plc | Retail | London, United Kingdom | https://careers.marksandspencer.com/ |
-| Melrose Industries Plc | Industrial Conglomerate | London, United Kingdom | https://www.melroseplc.net/careers/ |
-| Mondi Plc | Packaging and Paper | Vienna, Austria | https://www.mondigroup.com/en/careers/ |
-| National Grid Plc | Utilities | London, United Kingdom | https://www.nationalgrid.com/uk/careers |
-| Natwest Group Plc | Financial Services | Edinburgh, Scotland, United Kingdom | https://jobs.natwestgroup.com/ |
-| Next Plc | Retail | Enderby, Leicestershire, UK | https://careers.next.co.uk |
-| Ocado Group Plc | Technology | Hatfield, Hertfordshire, United Kingdom | https://www.ocado.com/careers |
-| Pearson Plc | Education | London, United Kingdom | https://www.pearson.com/careers.html |
-| Pershing Square Holdings Ltd. | Finance | London, United Kingdom | https://www.pershingsquareholdings.com/careers/ |
-| Persimmon Plc | Construction | York, United Kingdom | https://www.persimmonjobs.com/ |
-| Phoenix Group Holdings Plc | Financial Services | London, UK | https://www.thephoenixgroup.com/about-us/work-for-us/ |
-| Prudential Plc | Financial Services | London, United Kingdom | https://www.prudential.co.uk/careers |
-| Reckitt Benckiser Group Plc | Consumer Goods | Slough, Berkshire, United Kingdom | https://careers.rb.com/ |
-| RELX Plc | Information Services | London, United Kingdom | https://www.relx.com/careers |
-| Rentokil Initial Plc | Service | Camberley, United Kingdom | https://www.rentokil-initial.com/careers/ |
-| Rightmove Plc | Real Estate Technology | London, United Kingdom | https://www.rightmove.co.uk/careers |
-| Rio Tinto Plc | Mining | London, England | https://www.riotinto.com/careers |
-| Rolls-Royce Holdings Plc | Aerospace and Defense | London, United Kingdom | https://www.rolls-royce.com/careers.html |
-| RS Group Plc | Software | London, United Kingdom | https://rsgroupplc.com/careers/ |
-| Sage Group Plc | Software | Newcastle upon Tyne, United Kingdom | https://www.sage.com/careers |
-| Sainsbury(J) Plc | Retail | London, United Kingdom | https://sainsburys.jobs/ |
-| Schroders Plc | Finance | London, United Kingdom | https://www.schroders.com/en/careers/ |
-| Scottish Mortgage Inv Tst Plc | Financial Services | Edinburgh, Scotland | https://www.bailliegifford.com/en/uk/careers/ |
-| Segro Plc | Real Estate | London, United Kingdom | https://www.segro.com/careers |
-| Severn Trent Plc | Utilities | Coventry, United Kingdom | https://www.stwater.co.uk/careers/ |
-| Shell Plc | Oil and Gas | The Hague, Netherlands | https://www.shell.com/careers.html |
-| Smith & Nephew Plc | Medical Devices and Equipment | London, United Kingdom | https://www.smith-nephew.com/careers/ |
-| Smith (Ds) Plc | Software | New York, USA | https://www.smithds.com/careers |
-| Smiths Group Plc | Software | London, United Kingdom | https://www.smiths.com/en/careers |
-| Smurfit Kappa Group Plc | Packaging | Dublin, Ireland | https://www.smurfitkappa.com/careers |
-| Spirax-Sarco Engineering Plc | Engineering | Cheltenham, United Kingdom | https://www.spiraxsarco.com/careers |
-| SSE Plc | Energy | Perth, Scotland, United Kingdom | https://careers.sse.com/ |
-| St. James's Place Plc | Financial Services | Cirencester, United Kingdom | https://www.sjp.co.uk/about-us/careers |
-| Standard Chartered Plc | Banking and Financial Services | London, United Kingdom | https://www.sc.com/en/careers/ |
-| Taylor Wimpey Plc | Real Estate - Development & Operations | High Wycombe, United Kingdom | https://www.taylorwimpeycareers.co.uk/ |
-| Tesco Plc | Retail | Welwyn Garden City, Hertfordshire, England | https://www.tescoplc.com/about/our-business/our-approach/our-team/ |
-| Unilever Plc | Consumer Goods | London, United Kingdom | https://www.unilever.com/careers/ |
-| Unite Group Plc | Real Estate Investment Trust (REIT) | Bristol, United Kingdom | https://www.unite-group.co.uk/careers |
-| United Utilities Group Plc | Utilities | Warrington, England | https://www.unitedutilities.com/careers/ |
-| Vodafone Group Plc | Telecommunications | London, United Kingdom | https://www.careers.vodafone.com/ |
-| Weir Group Plc | Engineering - Machinery | Glasgow, Scotland | https://www.global.weir/careers |
-| Whitbread Plc | Hospitality | Dunstable, England | https://www.whitbread.co.uk/careers |
-| WPP Plc | Advertising & Marketing | London, England | https://www.wpp.com/careers/ |
+| Company Name | Industry | Headquarters | Employment Page URL | Job Listing |
+| --- | --- | --- | --- |-------------| 
+| 3I Group Plc | Finance | London, United Kingdom | https://www.3i.com/careers | N           |
+| Admiral Group Plc | Insurance | Cardiff, Wales, United Kingdom | https://admiraljobs.co.uk/ |             |
+| Airtel Africa Plc | Telecommunications | London, United Kingdom | https://www.airtel.africa/careers |             |
+| Anglo American Plc | Mining | London, United Kingdom | https://www.angloamerican.com/careers |             |
+| Antofagasta Plc | Mining | Santiago, Chile | http://www.antofagasta.co.uk/careers/ |             |
+| Ashtead Group Plc | Equipment Rental | London, England | https://www.ashtead-group.com/careers |             |
+| Associated British Foods Plc | Food | London, United Kingdom | https://www.abf.co.uk/careers |             |
+| Astrazeneca Plc | Pharmaceuticals | Cambridge, England | https://careers.astrazeneca.com/ |             |
+| Auto Trader Group Plc | Software | Manchester, United Kingdom | https://careers.autotrader.co.uk/ |             |
+| Aviva Plc | Insurance | London, United Kingdom | https://www.avivajobs.com/ |             |
+| B&M European Value Retail S.A. | Retail | Luxembourg, Luxembourg | https://jobs.bmstores.co.uk/ |             |
+| BAE Systems Plc | Defense, Aerospace | Farnborough, United Kingdom | https://www.baesystems.com/en/careers |             |
+| Barclays Plc | Finance | London, United Kingdom | https://home.barclays/careers/ |             |
+| Barratt Developments Plc | Real Estate | London, United Kingdom | https://www.barrattcareers.co.uk/ |             |
+| Beazley Plc | Insurance | London, United Kingdom | https://www.beazley.com/careers |             |
+| Berkeley Group Holdings (The) Plc | Property Development | Cobham, United Kingdom | https://www.berkeleygroup.co.uk/careers |             |
+| BP Plc | Oil and Gas | London, United Kingdom | https://www.bp.com/en/global/corporate/careers.html |             |
+| British American Tobacco Plc | Tobacco | London, England | https://careers.bat.com |             |
+| BT Group Plc | Telecommunications | London, United Kingdom | https://www.bt.com/careers |             |
+| Bunzl Plc | Distribution and Outsourcing | London, United Kingdom | https://www.bunzlcareers.co.uk/ |             |
+| Burberry Group Plc | Fashion & Luxury Goods | London, United Kingdom | https://www.burberryplc.com/en/careers.html |             |
+| Centrica Plc | Software | Windsor, Berkshire, United Kingdom | https://www.centrica.com/careers |             |
+| Coca-Cola HBC AG | Beverages | Zug, Switzerland | https://www.coca-colahellenic.com/en/careers/ |             |
+| Compass Group Plc | Food Service | Surrey, United Kingdom | https://www.compass-group.com/careers |             |
+| Convatec Group Plc | Medical Devices | Reading, United Kingdom | https://www.convatecgroup.com/careers |             |
+| Croda International Plc | Chemicals | Snaith, United Kingdom | https://www.croda.com/en-gb/careers |             |
+| DCC Plc | Software | Dublin, Ireland | https://careers.dcc.ie/ |             |
+| Diageo Plc | Beverages | London, United Kingdom | https://www.diageo.com/en/careers/ |             |
+| Diploma Plc | Software | London, United Kingdom | https://www.diploma.co.uk/careers |             |
+| Endeavour Mining Plc | Mining | London, United Kingdom | https://www.endeavourmining.com/careers/ |             |
+| Entain Plc | Software | Douglas, Isle of Man | https://entaingroup.com/careers/ |             |
+| Experian Plc | Software | Dublin, Ireland | https://www.experianplc.com/careers |             |
+| F&C Investment Trust Plc | Financial Services | London, United Kingdom | https://www.fandc.com/en/careers/ |             |
+| Flutter Entertainment Plc | Online Gambling and Betting | Dublin, Ireland | https://www.flutter.com/careers |             |
+| Frasers Group Plc | Retail | United Kingdom | https://www.frasers.group/careers |             |
+| Fresnillo Plc | Mining | Mexico City, Mexico | https://www.fresnilloplc.com/careers/ |             |
+| Glencore Plc | Mining and Commodities Trading | Baar, Switzerland | https://www.glencore.com/careers |             |
+| GSK Plc | Pharmaceutical | Brentford, United Kingdom | https://www.gsk.com/en-gb/careers/ |             |
+| Haleon Plc | Software | London, United Kingdom | https://www.haleonplc.com/careers |             |
+| Halma Plc | Software | Amersham, Buckinghamshire, United Kingdom | https://www.halma.com/careers/ |             |
+| Hikma Pharmaceuticals Plc | Pharmaceuticals | London, United Kingdom | https://careers.hikma.com/ |             |
+| Howden Joinery Group Plc | Software | East Yorkshire, United Kingdom | https://www.howdens.com/careers |             |
+| HSBC Holdings plc | Financial Services | London, United Kingdom | https://www.hsbc.com/careers |             |
+| IMI Plc | Software | Birmingham, United Kingdom | https://www.imiplc.com/careers |             |
+| Imperial Brands Plc | Tobacco | Bristol, United Kingdom | https://careers.imperialbrandsplc.com/ |             |
+| Informa Plc | Business and Financial Information Services | London, UK | https://www.informa.com/careers |             |
+| Intercontinental Hotels Group Plc | Hospitality | Denham, United Kingdom | https://careers.ihg.com/ |             |
+| Intermediate Capital Group Plc | Financial Services | London, United Kingdom | https://www.icgam.com/careers |             |
+| Intertek Group Plc | Quality Assurance and Testing | London, United Kingdom | https://www.intertek.com/careers/ |             |
+| Intl Consolidated Airlines Group SA | Aviation | Madrid, Spain | https://www.iairgroup.com/en/join-us |             |
+| JD Sports Fashion Plc | Retail | Bury, United Kingdom | https://careers.jdsports.co.uk/ |             |
+| Kingfisher Plc | Retail | London, United Kingdom | https://www.kingfisher.com/careers |             |
+| Land Securities Group Plc | Real Estate | London, United Kingdom | https://www.landsec.com/careers |             |
+| Legal & General Group Plc | Financial Services | London, United Kingdom | https://careers.legalandgeneral.com/ |             |
+| Lloyds Banking Group Plc | Banking | London, United Kingdom | https://www.lloydsbankinggrouptalent.com/ |             |
+| London Stock Exchange Group Plc | Financial Services | London, United Kingdom | https://www.lseg.com/careers |             |
+| M&G Plc | Financial Services | London, United Kingdom | https://careers.mandg.com |             |
+| Marks & Spencer Group Plc | Retail | London, United Kingdom | https://careers.marksandspencer.com/ |             |
+| Melrose Industries Plc | Industrial Conglomerate | London, United Kingdom | https://www.melroseplc.net/careers/ |             |
+| Mondi Plc | Packaging and Paper | Vienna, Austria | https://www.mondigroup.com/en/careers/ |             |
+| National Grid Plc | Utilities | London, United Kingdom | https://www.nationalgrid.com/uk/careers |             |
+| Natwest Group Plc | Financial Services | Edinburgh, Scotland, United Kingdom | https://jobs.natwestgroup.com/ |             |
+| Next Plc | Retail | Enderby, Leicestershire, UK | https://careers.next.co.uk |             |
+| Ocado Group Plc | Technology | Hatfield, Hertfordshire, United Kingdom | https://www.ocado.com/careers |             |
+| Pearson Plc | Education | London, United Kingdom | https://www.pearson.com/careers.html |             |
+| Pershing Square Holdings Ltd. | Finance | London, United Kingdom | https://www.pershingsquareholdings.com/careers/ |             |
+| Persimmon Plc | Construction | York, United Kingdom | https://www.persimmonjobs.com/ |             |
+| Phoenix Group Holdings Plc | Financial Services | London, UK | https://www.thephoenixgroup.com/about-us/work-for-us/ |             |
+| Prudential Plc | Financial Services | London, United Kingdom | https://www.prudential.co.uk/careers |             |
+| Reckitt Benckiser Group Plc | Consumer Goods | Slough, Berkshire, United Kingdom | https://careers.rb.com/ |             |
+| RELX Plc | Information Services | London, United Kingdom | https://www.relx.com/careers |             |
+| Rentokil Initial Plc | Service | Camberley, United Kingdom | https://www.rentokil-initial.com/careers/ |             |
+| Rightmove Plc | Real Estate Technology | London, United Kingdom | https://www.rightmove.co.uk/careers |             |
+| Rio Tinto Plc | Mining | London, England | https://www.riotinto.com/careers |             |
+| Rolls-Royce Holdings Plc | Aerospace and Defense | London, United Kingdom | https://www.rolls-royce.com/careers.html |             |
+| RS Group Plc | Software | London, United Kingdom | https://rsgroupplc.com/careers/ |             |
+| Sage Group Plc | Software | Newcastle upon Tyne, United Kingdom | https://www.sage.com/careers |             |
+| Sainsbury(J) Plc | Retail | London, United Kingdom | https://sainsburys.jobs/ |             |
+| Schroders Plc | Finance | London, United Kingdom | https://www.schroders.com/en/careers/ |             |
+| Scottish Mortgage Inv Tst Plc | Financial Services | Edinburgh, Scotland | https://www.bailliegifford.com/en/uk/careers/ |             |
+| Segro Plc | Real Estate | London, United Kingdom | https://www.segro.com/careers |             |
+| Severn Trent Plc | Utilities | Coventry, United Kingdom | https://www.stwater.co.uk/careers/ |             |
+| Shell Plc | Oil and Gas | The Hague, Netherlands | https://www.shell.com/careers.html |             |
+| Smith & Nephew Plc | Medical Devices and Equipment | London, United Kingdom | https://www.smith-nephew.com/careers/ |             |
+| Smith (Ds) Plc | Software | New York, USA | https://www.smithds.com/careers |             |
+| Smiths Group Plc | Software | London, United Kingdom | https://www.smiths.com/en/careers |             |
+| Smurfit Kappa Group Plc | Packaging | Dublin, Ireland | https://www.smurfitkappa.com/careers |             |
+| Spirax-Sarco Engineering Plc | Engineering | Cheltenham, United Kingdom | https://www.spiraxsarco.com/careers |             |
+| SSE Plc | Energy | Perth, Scotland, United Kingdom | https://careers.sse.com/ |             |
+| St. James's Place Plc | Financial Services | Cirencester, United Kingdom | https://www.sjp.co.uk/about-us/careers |             |
+| Standard Chartered Plc | Banking and Financial Services | London, United Kingdom | https://www.sc.com/en/careers/ |             |
+| Taylor Wimpey Plc | Real Estate - Development & Operations | High Wycombe, United Kingdom | https://www.taylorwimpeycareers.co.uk/ |             |
+| Tesco Plc | Retail | Welwyn Garden City, Hertfordshire, England | https://www.tescoplc.com/about/our-business/our-approach/our-team/ |             |
+| Unilever Plc | Consumer Goods | London, United Kingdom | https://www.unilever.com/careers/ |             |
+| Unite Group Plc | Real Estate Investment Trust (REIT) | Bristol, United Kingdom | https://www.unite-group.co.uk/careers |             |
+| United Utilities Group Plc | Utilities | Warrington, England | https://www.unitedutilities.com/careers/ |             |
+| Vodafone Group Plc | Telecommunications | London, United Kingdom | https://www.careers.vodafone.com/ |             |
+| Weir Group Plc | Engineering - Machinery | Glasgow, Scotland | https://www.global.weir/careers |             |
+| Whitbread Plc | Hospitality | Dunstable, England | https://www.whitbread.co.uk/careers |             |
+| WPP Plc | Advertising & Marketing | London, England | https://www.wpp.com/careers/ |             |
+
 
 
 
