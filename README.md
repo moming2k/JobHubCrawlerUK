@@ -1,3 +1,31 @@
+# Welcome to the JobHubCrawler Wiki!
+
+This wiki serves as a collaborative platform for contributors to add and update company listings that include URLs and direct links to their career pages. Our goal is to create a comprehensive directory of job openings to aid job seekers in finding employment opportunities efficiently.
+
+## Contributing to the Wiki
+
+We appreciate your interest in contributing! Here’s how you can add company information to the JobHubCrawler wiki:
+
+### Step 1: Fork the Repository
+
+Start by forking the repository to make your own copy where you can work independently.
+
+### Step 2: Add Company Information
+
+Navigate to the `Companies` directory in your fork. Here’s the format you should follow to add new company information:
+
+```markdown
+## Company Name
+
+**Industry:** [Industry Type]
+**Headquarters:** [Location]
+**Employment Page URL:** [URL]
+**About the Company:**
+[Short description of the company.]
+```
+
+
+
 # JobHubCrawler
 
 JobHubCrawler is a tool designed to crawl and index company websites that list job openings. This project aims to simplify the job search process by aggregating career pages across various industries and geographic locations into a single, searchable database.
