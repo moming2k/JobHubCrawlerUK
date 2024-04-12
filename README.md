@@ -26,7 +26,10 @@ Navigate to the `Companies` directory in your fork. Here’s the format you shou
 ```
 
 
-# JobHubCrawler
+
+
+
+# JobHubCrawler Script
 
 JobHubCrawler is a tool designed to crawl and index company websites that list job openings. This project aims to simplify the job search process by aggregating career pages across various industries and geographic locations into a single, searchable database.
 
