@@ -4,6 +4,8 @@ This wiki serves as a collaborative platform for contributors to add and update 
 
 ## Company Information
 
+### FTSE 100
+
 | Company Name | Industry | Headquarters | Employment Page URL | Job Listing |
 | --- | --- | --- | --- |-------------| 
 | 3I Group Plc | Finance | London, United Kingdom | https://www.3i.com/careers | N           |
