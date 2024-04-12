@@ -27,7 +27,7 @@ Navigate to the `Companies` directory in your fork. Here’s the format you shou
 | **About the Company** | [Short description of the company.] |
 | **Why Work Here?** | [Optional: Add benefits or unique selling points.] |
 ```
-
+```
 
 
 # JobHubCrawler
