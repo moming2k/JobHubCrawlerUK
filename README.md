@@ -2,6 +2,44 @@
 
 This wiki serves as a collaborative platform for contributors to add and update company listings that include URLs and direct links to their career pages. Our goal is to create a comprehensive directory of job openings to aid job seekers in finding employment opportunities efficiently.
 
+## Company Information
+
+### 1. HSBC Holdings plc
+
+| Attribute              | Details                                        |
+|------------------------|------------------------------------------------|
+| **Company Name**       | HSBC Holdings plc                              |
+| **Industry**           | Banking                                        |
+| **Headquarters**       | London, UK                                     |
+| **Employment Page URL** | [HSBC Careers](https://www.hsbc.com/careers)  |
+| **About the Company**  | HSBC is one of the world's largest banking and financial services organisations, serving more than 40 million customers through four global businesses. |
+| **Why Work Here?**     | Offers a diverse environment and a commitment to sustainability and community development. |
+
+### 2. BP plc
+
+| Attribute              | Details                                        |
+|------------------------|------------------------------------------------|
+| **Company Name**       | BP plc                                         |
+| **Industry**           | Oil and Gas                                    |
+| **Headquarters**       | London, UK                                     |
+| **Employment Page URL** | [BP Careers](https://www.bp.com/en/global/corporate/careers.html) |
+| **About the Company**  | BP is one of the world's leading integrated oil and gas companies, providing customers with fuel, energy, lubricants, and petrochemicals. |
+| **Why Work Here?**     | Known for innovation in energy solutions and a strong focus on sustainability. |
+
+### 3. AstraZeneca
+
+| Attribute              | Details                                        |
+|------------------------|------------------------------------------------|
+| **Company Name**       | AstraZeneca                                    |
+| **Industry**           | Pharmaceuticals                                |
+| **Headquarters**       | Cambridge, UK                                  |
+| **Employment Page URL** | [AstraZeneca Careers](https://careers.astrazeneca.com) |
+| **About the Company**  | A global, science-led biopharmaceutical business whose innovative medicines are used by millions of patients worldwide. |
+| **Why Work Here?**     | Emphasizes employee development, innovative culture, and commitment to health improvement across the globe. |
+
+
+
+
 ## Contributing to the Wiki
 
 We appreciate your interest in contributing! Here’s how you can add company information to the JobHubCrawler wiki:
