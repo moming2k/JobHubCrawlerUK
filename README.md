@@ -2,6 +2,8 @@
 
 This wiki serves as a collaborative platform for contributors to add and update company listings that include URLs and direct links to their career pages. Our goal is to create a comprehensive directory of job openings to aid job seekers in finding employment opportunities efficiently.
 
+*Contributors will have the exclusive opportunity to experience a sneak peek of our cutting-edge automated system for swiftly searching and matching job titles from the provided list.*
+
 ## Company Information
 
 ### FTSE 100
@@ -51,7 +53,7 @@ This wiki serves as a collaborative platform for contributors to add and update 
 | Hikma Pharmaceuticals Plc | Pharmaceuticals | London, United Kingdom | https://careers.hikma.com/ |             |
 | Howden Joinery Group Plc | Software | East Yorkshire, United Kingdom | https://www.howdens.com/careers |             |
 | HSBC Holdings plc | Financial Services | London, United Kingdom | https://www.hsbc.com/careers |             |
-| IMI Plc | Software | Birmingham, United Kingdom | https://www.imiplc.com/careers |             |
+| IMI Plc | Software | Birmingham, United Kingdom | https://www.imiplc.com/people/careers?combine=&job_country=208 | Y           |
 | Imperial Brands Plc | Tobacco | Bristol, United Kingdom | https://careers.imperialbrandsplc.com/ |             |
 | Informa Plc | Business and Financial Information Services | London, UK | https://www.informa.com/careers |             |
 | Intercontinental Hotels Group Plc | Hospitality | Denham, United Kingdom | https://careers.ihg.com/ |             |
@@ -59,7 +61,7 @@ This wiki serves as a collaborative platform for contributors to add and update 
 | Intertek Group Plc | Quality Assurance and Testing | London, United Kingdom | https://www.intertek.com/careers/ |             |
 | Intl Consolidated Airlines Group SA | Aviation | Madrid, Spain | https://www.iairgroup.com/en/join-us |             |
 | JD Sports Fashion Plc | Retail | Bury, United Kingdom | https://careers.jdsports.co.uk/ |             |
-| Kingfisher Plc | Retail | London, United Kingdom | https://www.kingfisher.com/careers |             |
+| Kingfisher Plc | Retail | London, United Kingdom | https://careers.kingfisher.com | Y           |
 | Land Securities Group Plc | Real Estate | London, United Kingdom | https://www.landsec.com/careers |             |
 | Legal & General Group Plc | Financial Services | London, United Kingdom | https://careers.legalandgeneral.com/ |             |
 | Lloyds Banking Group Plc | Banking | London, United Kingdom | https://www.lloydsbankinggrouptalent.com/ |             |
@@ -110,6 +112,7 @@ This wiki serves as a collaborative platform for contributors to add and update 
 | WPP Plc | Advertising & Marketing | London, England | https://www.wpp.com/careers/ |             |
 
 
+
 #### Add to the above
 
 
@@ -123,7 +126,7 @@ Start by forking the repository to make your own copy where you can work indepen
 
 ### Step 2: Add Company Information
 
-Navigate to the `Companies` directory in your fork. Here’s the format you should follow to add new company information:
+Update README.md directory in your fork. Here’s the format you should follow to add new company information:
 
 ```markdown
 | Attribute        | Details                                  |
@@ -132,8 +135,7 @@ Navigate to the `Companies` directory in your fork. Here’s the format you shou
 | **Industry**     | [Industry Type]                          |
 | **Headquarters** | [Location]                               |
 | **Employment Page URL** | [URL]                             |
-| **About the Company** | [Short description of the company.] |
-| **Why Work Here?** | [Optional: Add benefits or unique selling points.] |
+| **Job Listing** | Y/N                                       |
 ```
 
 
