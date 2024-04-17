@@ -109,7 +109,7 @@ This wiki serves as a collaborative platform for contributors to add and update 
 | Vodafone Group Plc | Telecommunications | London, United Kingdom | https://www.careers.vodafone.com/ |             |
 | Weir Group Plc | Engineering - Machinery | Glasgow, Scotland | https://www.global.weir/careers |             |
 | Whitbread Plc | Hospitality | Dunstable, England | https://www.whitbread.co.uk/careers |             |
-| WPP Plc | Advertising & Marketing | London, England | https://www.wpp.com/careers/ |             |
+| WPP Plc | Advertising & Marketing | London, England | [https://www.wpp.com/careers/](https://www.wpp.com/people/careers/current-opportunities/current-network-opportunities) | Y            |
 
 
 
